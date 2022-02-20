@@ -1,0 +1,233 @@
+#firstfooter{
+    display:flex;
+    color:rgb(6, 6, 87);
+    font-size: 20px;
+    justify-content: space-between;
+    background-color:white;
+    text-align: end;
+}
+.dvi1{
+    float: right;
+    position: relative !important;
+    top: 41px;
+    min-height: calc(100% - 41px);
+    
+}
+
+#secndfooter{
+    justify-content: space-evenly;
+    background: -webkit-linear-gradient(rgb(128, 120, 161), rgb(210, 205, 221))
+}
+h3{
+    font-size: 45px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:aliceblue;
+    font-size: 20px;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+#b1{
+    background-color: gold;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(40, 148, 130);
+    border: 2px solid #f1f5f1;
+    width: 200px;
+    float: center;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+#thirdfooter-dvi1{
+    text-align: center;
+    font-size: 33px;
+    color: rgb(40, 148, 130);
+    background-color: white;
+}
+#fifthfooter{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+#sque1{
+    background-color: gold;
+    border-radius: 50%;
+}
+#sque2{
+    background-color: gold;
+    border-radius: 60%;
+}
+#sque3{
+    background-color: gold;
+    border-radius: 50%;
+}
+#fifthfooter{
+    background-color: rgb(222, 212, 231);
+    background-size: 100px 200px;
+}
+#b2{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(8, 8, 8);
+    border: 2px solid #f1f5f1;
+    width: 200px;
+    float: center;
+    border-radius: 12px;
+  
+}
+#h3form5{
+    color: rgb(76, 146, 125);
+    text-align: left;
+    font-size: 26px;
+
+}
+#form5{
+    display: flex;
+    justify-content: space-evenly;
+}
+#pra6div{
+    font-size: 14px;
+    text-align: left;
+    color: black;
+}
+#pragform6{
+    font-size: 14px;
+    text-align: left;
+    color: black;
+}
+#form6{
+    display: flex;
+    justify-content: space-evenly;
+}
+#h3form6{
+    color: rgb(76, 146, 125);
+    text-align: left;
+    font-size: 26px;
+}
+#form7{
+    display: flex;
+    justify-content: space-evenly;
+}
+#h3form7{
+    color: rgb(76, 146, 125);
+    text-align: left;
+    font-size: 26px;
+
+}
+#pra7div{
+    font-size: 14px;
+    text-align: left;
+    color: black;
+}
+#h3ofninefooter{
+    color: #ffffff;
+    font-size: 58px;
+    font-family:cursive;
+    text-align: left;
+}
+#ninefooter{
+    background-color: rgb(29, 29, 73);
+}
+#lable1{
+    color: #f1f5f1;
+}
+#lable2{
+    color: #f1f5f1;
+    text-align: left;
+}
+#input1{
+    width: 250px;
+    height: 45px;
+}
+#input2{
+    width: 250px;
+    height: 45px;
+}
+#ninefooter{
+    display: flex;
+    justify-content: space-evenly;
+}
+#footer1infooter9{
+    display: flex;
+    justify-content: space-between;
+}
+#h3formfooter9{
+    font-size: 20px;
+}
+#email{
+    width: 510px;
+    height: 45px;
+}
+#lable3{
+    color: #f1f5f1;
+}
+#input3{
+    width: 510px;
+    height: 45px;
+}
+#lable4{
+    color: #f1f5f1;
+}
+#lable5{
+    color: #f1f5f1;
+}
+#messag{
+    width: 510px;
+    height: 150px;
+}
+#finalbo{
+    background-color: gold;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(40, 148, 130);
+    width: 510px;
+    float: center;
+    border-radius: 12px;
+}
+#contfoot{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+a{
+    font-size: 25px;
+}
+#h3final2{
+    color: rgb(76, 146, 125);
+    font-size: 30px;
+}
+#hh{
+    color:rgb(31, 8, 73);
+    font-size: 20px;
+}
+#hhh{
+    color:rgb(31, 8, 73);
+    font-size: 20px;
+}
+#forconh3{
+    color: rgb(76, 146, 125);
+    font-size: 30px;
+}
+#contfoot{
+    background-color: (243, 239, 247);
+}
+#form10{
+    background-color: rgb(243, 239, 247);
+}
+#finsh{
+    color: white;
+    font-size: 20px;
+}
+#fff{
+    background-color: rgb(104, 92, 221);
+    background: -webkit-linear-gradient(rgb(128, 120, 161), rgb(210, 205, 221))
+}
